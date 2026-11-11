@@ -4,10 +4,8 @@ public class Solution {
         {
             for(int j =i+1; j<nums.Length; j++)
             {
-                if(i!=j){
-                    if(nums[i]+nums[j]==target){
-                        return [i,j];
-                    }
+                if(nums[i]+nums[j]==target){
+                    return [i,j];
                 }
             }
         }

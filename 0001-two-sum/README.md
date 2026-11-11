@@ -8,7 +8,7 @@ Dado un arreglo de enteros `nums` y un entero `target`, devolver los índices de
 
 ## Enfoque
 
-Fuerza bruta: se recorren todos los pares `(i, j)` con `j > i` y se devuelve el primero cuya suma es igual a `target`.
+Fuerza bruta: se recorren todos los pares `(i, j)` con `j > i` y se devuelve el primero cuya suma es igual a `target`. Como `j` siempre empieza en `i + 1`, nunca se compara un elemento consigo mismo, así que no hace falta comprobar `i != j`.
 
 ## Complejidad
 
