@@ -1,16 +1,16 @@
 # 1. Two Sum
 
-**Dificultad:** Easy · **Lenguaje:** C# · [Ver en LeetCode](https://leetcode.com/problems/two-sum/)
+**Difficulty:** Easy · **Language:** C# · [View on LeetCode](https://leetcode.com/problems/two-sum/)
 
-## Problema
+## Problem
 
-Dado un arreglo de enteros `nums` y un entero `target`, devolver los índices de los dos números que suman `target`. Siempre existe exactamente una solución y no se puede usar el mismo elemento dos veces.
+Given an array of integers `nums` and an integer `target`, return the indices of the two numbers that add up to `target`. There is always exactly one solution, and the same element cannot be used twice.
 
-## Enfoque
+## Approach
 
-Fuerza bruta: se recorren todos los pares `(i, j)` con `j > i` y se devuelve el primero cuya suma es igual a `target`. Como `j` siempre empieza en `i + 1`, nunca se compara un elemento consigo mismo, así que no hace falta comprobar `i != j`.
+Brute force: check every pair `(i, j)` with `j > i` and return the first one whose sum equals `target`. Since `j` always starts at `i + 1`, an element is never compared with itself, so no `i != j` check is needed.
 
-## Complejidad
+## Complexity
 
-- **Tiempo:** O(n²)
-- **Espacio:** O(1)
+- **Time:** O(n²)
+- **Space:** O(1)
