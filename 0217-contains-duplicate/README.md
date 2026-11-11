@@ -8,9 +8,9 @@ Given an integer array `nums`, return `true` if any value appears at least twice
 
 ## Approach
 
-Brute force: compare every pair `(i, j)` with `j > i` and return `true` as soon as two equal values are found. If no pair matches, return `false`.
+Hash set: walk through the array once, adding each number to a `HashSet<int>`. `HashSet.Add` returns `false` when the value is already in the set, which means it's a duplicate, so return `true` right away. If the loop finishes, every element was distinct.
 
 ## Complexity
 
-- **Time:** O(n²)
-- **Space:** O(1)
+- **Time:** O(n) — each `Add` is O(1) on average
+- **Space:** O(n) — the set can hold up to `n` values
