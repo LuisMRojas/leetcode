@@ -9,3 +9,4 @@ My solutions to [LeetCode](https://leetcode.com/) problems.
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | C# | [Solution.cs](0242-valid-anagram/Solution.cs) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | C# | [Solution.cs](0121-best-time-to-buy-and-sell-stock/Solution.cs) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | C# | [Solution.cs](0125-valid-palindrome/Solution.cs) |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | C# | [Solution.cs](0268-missing-number/Solution.cs) |
