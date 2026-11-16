@@ -10,3 +10,4 @@ My solutions to [LeetCode](https://leetcode.com/) problems.
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | C# | [Solution.cs](0121-best-time-to-buy-and-sell-stock/Solution.cs) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | C# | [Solution.cs](0125-valid-palindrome/Solution.cs) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | C# | [Solution.cs](0268-missing-number/Solution.cs) |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | C# | [Solution.cs](0167-two-sum-ii-input-array-is-sorted/Solution.cs) |
