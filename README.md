@@ -11,4 +11,4 @@ My solutions to [LeetCode](https://leetcode.com/) problems.
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | C# | [Solution.cs](0125-valid-palindrome/Solution.cs) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | C# | [Solution.cs](0268-missing-number/Solution.cs) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | C# | [Solution.cs](0167-two-sum-ii-input-array-is-sorted/Solution.cs) |
-| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | C# | [Solution.cs](0049-group-anagrams/Solution.cs) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | C# | [Solution.cs](0049-group-anagrams/Solution.cs) · [Solution2.cs](0049-group-anagrams/Solution2.cs) |
